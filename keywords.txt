@@ -44,7 +44,7 @@ cal	KEYWORD2
 # Constants (LITERAL1)
 #######################################
 
-ku8TWISuccess
-ku8TWIDeviceNACK
-ku8TWIDataNACK
-ku8TWIError
+ku8TWISuccess	LITERAL1
+ku8TWIDeviceNACK	LITERAL1
+ku8TWIDataNACK	LITERAL1
+ku8TWIError	LITERAL1
